@@ -39,14 +39,42 @@ Saya adalah seorang developer yang berfokus pada **efisiensi** dan **estetika**.
 
 ---
 
-### 📂 Featured Projects (Bento Style)
+### 📂 Proyek Unggulan
 
-| 🚀 Project | 🛠️ Tech Stack | 📝 Description |
-| :--- | :--- | :--- |
-| **LhuciverJobs UI** | `Ember.js` `Tailwind` | Dashboard interaktif untuk monitoring task queue secara real-time. |
-| **TempMail Fullstack** | `Node.js` `Next.js` | Layanan email sementara dengan sistem inbox real-time. |
-| **AI OCR Processor** | `Python` `Tesseract` | Ekstraksi teks massal dari gambar dengan akurasi tinggi. |
-| **Account Automator** | `Python` `Selenium` | Automasi pendaftaran akun TikTok dengan alur kerja cerdas. |
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td width="48%" style="border-radius: 10px; padding: 15px; border: 1px solid #6366f1; background-color: #1a1b2e;">
+        <img src="https://skillicons.dev/icons?i=ember" width="30" />
+        <strong style="color: #6366f1;"> LhuciverJobs UI</strong>
+        <p style="color: #ffffff; font-size: 13px;">Dashboard interaktif & responsif berbasis Ember.js untuk monitoring task queue secara real-time.</p>
+        <img src="https://img.shields.io/badge/Stack-Ember%20%7C%20Tailwind-6366f1" />
+      </td>
+      <td width="4%"></td>
+      <td width="48%" style="border-radius: 10px; padding: 15px; border: 1px solid #10b981; background-color: #1a1b2e;">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="30" />
+        <strong style="color: #10b981;"> TempMail Fullstack</strong>
+        <p style="color: #ffffff; font-size: 13px;">Layanan email sementara full-stack dengan sistem inbox real-time yang aman dan cepat.</p>
+        <img src="https://img.shields.io/badge/Stack-Next.js%20%7C%20Node.js-10b981" />
+      </td>
+    </tr>
+    <tr><td colspan="3"><br></td></tr> <tr>
+      <td width="48%" style="border-radius: 10px; padding: 15px; border: 1px solid #8b5cf6; background-color: #1a1b2e;">
+        <img src="https://skillicons.dev/icons?i=py" width="30" />
+        <strong style="color: #8b5cf6;"> AI OCR Processor</strong>
+        <p style="color: #ffffff; font-size: 13px;">Ekstraksi teks massal dari gambar dengan akurasi tinggi menggunakan teknologi OCR.</p>
+        <img src="https://img.shields.io/badge/Stack-Python%20%7C%20Tesseract-8b5cf6" />
+      </td>
+      <td width="4%"></td>
+      <td width="48%" style="border-radius: 10px; padding: 15px; border: 1px solid #e11d48; background-color: #1a1b2e;">
+        <img src="https://skillicons.dev/icons?i=py" width="30" />
+        <strong style="color: #e11d48;"> Account Automator</strong>
+        <p style="color: #ffffff; font-size: 13px;">Automasi pendaftaran akun TikTok dengan alur kerja cerdas berbasis Python Selenium.</p>
+        <img src="https://img.shields.io/badge/Stack-Python%20%7C%20Selenium-e11d48" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
