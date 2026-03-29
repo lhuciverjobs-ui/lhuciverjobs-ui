@@ -1,49 +1,69 @@
-# 🌌 Lhuciver | Full Stack Developer
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=200&section=header&text=Lhuciver&fontSize=90&animation=fadeIn&fontAlignY=38" />
+
+  <h1>🚀 Full Stack Developer | Vibe Coder</h1>
+  
+  <p align="center">
+    <a href="https://lhuciver.lovable.app/"><b>Portfolio Website</b></a> •
+    <a href="https://lhuciverjobs.webkus.com/"><b>Personal Site</b></a>
+  </p>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8B5CF6&width=435&lines=Building+modern+web+experiences;Orchestrating+AI+for+rapid+dev;Airdrop+Hunter+%26+Web3+Enthusiast;Ember.js+Architect" alt="Typing SVG" />
+</div>
+
+---
+
+### ⚡ Quick Overview
+Saya adalah seorang developer yang berfokus pada **efisiensi** dan **estetika**. Melalui pendekatan *Vibe Coding*, saya menggabungkan kecepatan iterasi AI dengan presisi *hand-crafted code* untuk membangun solusi digital yang elegan.
+
+---
+
+### 🛠️ Tech Stack & Ecosystem
+
+<table align="center">
+  <tr>
+    <td align="center" width="200">
+      <img src="https://skillicons.dev/icons?i=js,react,nextjs,ember" /><br>
+      <b>Frontend</b>
+    </td>
+    <td align="center" width="200">
+      <img src="https://skillicons.dev/icons?i=nodejs,py,sqlite,postman" /><br>
+      <b>Backend & Tools</b>
+    </td>
+    <td align="center" width="200">
+      <img src="https://skillicons.dev/icons?i=ubuntu,linux,docker,bash" /><br>
+      <b>Environment</b>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📂 Featured Projects (Bento Style)
+
+| 🚀 Project | 🛠️ Tech Stack | 📝 Description |
+| :--- | :--- | :--- |
+| **LhuciverJobs UI** | `Ember.js` `Tailwind` | Dashboard interaktif untuk monitoring task queue secara real-time. |
+| **TempMail Fullstack** | `Node.js` `Next.js` | Layanan email sementara dengan sistem inbox real-time. |
+| **AI OCR Processor** | `Python` `Tesseract` | Ekstraksi teks massal dari gambar dengan akurasi tinggi. |
+| **Account Automator** | `Python` `Selenium` | Automasi pendaftaran akun TikTok dengan alur kerja cerdas. |
+
+---
+
+### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Vibe-Coding-6366f1?style=for-the-badge&logo=visualstudiocode" />
-  <img src="https://img.shields.io/badge/Stack-Fullstack-10b981?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-AI%20Orchestration-8b5cf6?style=for-the-badge" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhuciverjobs-ui&layout=compact&theme=transparent&title_color=6366f1&text_color=ffffff&hide_border=true" alt="Top Langs" height="180px" />
+<img src="https://github-readme-stats.vercel.app/api?username=lhuciverjobs-ui&show_icons=true&theme=transparent&title_color=6366f1&text_color=ffffff&hide_border=true" alt="GitHub Stats" height="180px" />
 </p>
 
 ---
 
-### 👨‍💻 Tentang Saya
-Saya adalah seorang pengembang yang berfokus pada pembuatan antarmuka web yang intuitif dan fungsional. Saya percaya pada kekuatan **Vibe Coding**—menggabungkan intuisi desain dengan efisiensi alat bertenaga AI untuk menciptakan produk digital yang berdampak.
+### 🌐 Let's Build Something Great
+* **Discord:** `lhuciver`
+* **Telegram:** [@lhuciverjobs](https://t.me/lhuciverjobs)
+* **Status:** Open for innovative collaborations in Web3 & AI.
 
-- 📍 Berlokasi di **Indonesia**
-- 🚀 Spesialis dalam **Ember.js**, **React**, dan **Python Automation**
-- 🛠️ Senang bereksperimen dengan **Web3**, **Airdrop Tools**, dan **Microservices**
-
----
-
-### 🛠️ Tech Stack & Tools
-| Area | Technologies |
-| :--- | :--- |
-| **Frontend** | Ember.js, React, Next.js, Tailwind CSS (Glassmorphism) |
-| **Backend** | Node.js, Python, SQLite |
-| **Automation** | Selenium, Playwright, Custom Scripts |
-| **Environment** | Linux (Ubuntu), Termux, SSH, Docker |
-
----
-
-### 📂 Proyek Unggulan
-* **[LhuciverJobs UI](https://github.com/lhuciverjobs-ui/ui)** - Dashboard interaktif berbasis Ember.js untuk manajemen tugas.
-* **TempMail Service** - Solusi email sementara full-stack yang aman dan cepat.
-* **AI OCR Processor** - Alat ekstraksi teks dari gambar secara massal menggunakan teknologi OCR.
-* **TikTok Automation** - Automasi alur kerja media sosial berbasis Python.
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lhuciverjobs-ui&show_icons=true&theme=transparent&text_color=ffffff&title_color=6366f1&icon_color=10b981" alt="Lhuciver Stats" />
-</p>
-
----
-
-### 🌐 Mari Terkoneksi
-- **Portofolio:** [lhuciver.lovable.app](https://lhuciver.lovable.app/)
-- **Website:** [lhuciverjobs.webkus.com](https://lhuciverjobs.webkus.com/)
-
-*"Code is the tool, creativity is the driver."*
+<div align="right">
+  <img src="https://img.shields.io/badge/📍-Indonesia-red?style=flat-square" />
+</div>
