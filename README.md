@@ -53,8 +53,11 @@ Saya adalah seorang developer yang berfokus pada **efisiensi** dan **estetika**.
 ### 📊 GitHub Activity
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhuciverjobs-ui&layout=compact&theme=transparent&title_color=6366f1&text_color=ffffff&hide_border=true" alt="Top Langs" height="180px" />
-<img src="https://github-readme-stats.vercel.app/api?username=lhuciverjobs-ui&show_icons=true&theme=transparent&title_color=6366f1&text_color=ffffff&hide_border=true" alt="GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhuciverjobs-ui&layout=compact&theme=modern&title_color=6366f1&text_color=ffffff&hide_border=true&border_radius=10&langs_count=5" alt="Top Languages" />
+  
+  <br><br>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=lhuciverjobs-ui&show_icons=true&theme=modern&title_color=6366f1&text_color=ffffff&icon_color=10b981&hide_border=true&border_radius=10" alt="GitHub Stats" />
 </p>
 
 ---
