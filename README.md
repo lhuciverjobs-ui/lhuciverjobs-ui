@@ -1,15 +1,16 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4fd8,50:fff800,100:ff4fd8&height=220&section=header&text=lhuciver&fontSize=88&fontColor=080808&fontAlignY=38&animation=fadeIn" alt="lhuciver banner" />
-
-  <h1>⚡ BASIC · VIBE CODER · 60 HP</h1>
-  <p><strong>AI iteration speed × handcrafted code</strong></p>
-
+  <h1>lhuciver</h1>
+  <p><strong>building things, breaking things, learning as I go.</strong></p>
   <p>
-    <a href="https://pokehub.ilhamriski.com/lhuciverjobs-ui"><img src="https://img.shields.io/badge/🎴_PokeHub-Developer_Card-ff4fd8?style=for-the-badge&labelColor=080808" alt="PokeHub developer card" /></a>
-    <a href="https://github.com/lhuciverjobs-ui?tab=repositories"><img src="https://img.shields.io/badge/🃏_Repo_Deck-Explore-fff800?style=for-the-badge&labelColor=080808" alt="Repository deck" /></a>
-    <a href="https://t.me/lhuciverjobs"><img src="https://img.shields.io/badge/💬_Telegram-Connect-e52521?style=for-the-badge&labelColor=080808" alt="Telegram" /></a>
+    <a href="https://pokehub.ilhamriski.com/lhuciverjobs-ui">PokeHub card</a> ·
+    <a href="https://github.com/lhuciverjobs-ui?tab=repositories">repositories</a> ·
+    <a href="https://t.me/lhuciverjobs">telegram</a>
   </p>
 </div>
+
+<p align="center">
+  <img src="https://pokehub.ilhamriski.com/lhuciverjobs-ui.png" alt="lhuciver PokeHub card" width="360" />
+</p>
 
 ---
 
