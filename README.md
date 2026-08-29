@@ -132,14 +132,13 @@ I enjoy the part where an idea is still rough, the tools are being chosen, and n
 <h2 align="center">📊 statistics</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lhuciverjobs-ui&show_icons=true&hide_border=true&bg_color=080808&title_color=21f37b&text_color=b7ffd2&icon_color=fff800&rank_icon=github" height="170" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhuciverjobs-ui&layout=compact&hide_border=true&bg_color=080808&title_color=21f37b&text_color=b7ffd2" height="170" alt="top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lhuciverjobs-ui&theme=github_dark" width="96%" alt="GitHub profile details" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=lhuciverjobs-ui&hide_border=true&background=080808&ring=21f37b&fire=fff800&currStreakLabel=21f37b&sideLabels=b7ffd2&dates=b7ffd2&currStreakNum=b7ffd2&sideNums=b7ffd2" alt="GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=lhuciverjobs-ui&hide_border=true&background=080808&ring=21f37b&fire=fff800&currStreakLabel=21f37b&sideLabels=b7ffd2&dates=b7ffd2&currStreakNum=b7ffd2&sideNums=b7ffd2" width="96%" alt="GitHub contribution streak" />
 </div>
 
 <br>
