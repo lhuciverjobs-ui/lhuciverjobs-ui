@@ -1,14 +1,14 @@
 <div align="center">
-  <img src="./matrix.svg" alt="lhuciver matrix header" width="100%" />
-</div>
-
-<br>
-
-<div align="center">
-  <a href="https://pokehub.ilhamriski.com/lhuciverjobs-ui">
-    <img src="https://pokehub.ilhamriski.com/lhuciverjobs-ui.png" alt="lhuciver PokeHub card" width="280" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Cutive+Mono&pause=1200&color=21F37B&center=true&vCenter=true&width=520&lines=lhuciver's+page+%3C3;enter+the+matrix;build+%2F%2F+break+%2F%2F+repeat" alt="Typing SVG" />
   </a>
 </div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lhuciverjobs-ui&color=21f37b&style=for-the-badge&label=VISITORS" alt="profile views" />
+</p>
+
+<br>
 
 <h2 align="center">hey there! i'm lhuciver 👋</h2>
 
@@ -24,22 +24,14 @@
 
 <br>
 
-<!-- profile -->
+<p>
+  <a href="https://pokehub.ilhamriski.com/lhuciverjobs-ui">
+    <img align="left" src="https://pokehub.ilhamriski.com/lhuciverjobs-ui.png" alt="lhuciver PokeHub card" width="300" />
+  </a>
 
 ```sh
-lhuciver@matrix: ~/profile (main⚡)$ whoami
-```
-
-<table>
-  <tr>
-    <td width="36%" valign="top">
-      <img src="https://pokehub.ilhamriski.com/lhuciverjobs-ui.png" alt="lhuciver developer card" width="100%" />
-    </td>
-    <td width="64%" valign="top">
-
-```text
-lhuciver's profile
---------------------------------
+lhuciver@matrix
+-------------------------
 Name:       lhuciver
 Class:      builder / tinkerer
 Type:       Python
@@ -60,11 +52,9 @@ Status:     open to interesting work
 ```
 
 I enjoy the part where an idea is still rough, the tools are being chosen, and nothing works on the first try. AI helps me move faster; the second draft is where I make it mine.
+</p>
 
-    </td>
-  </tr>
-</table>
-
+<br clear="both">
 <br>
 
 ---
