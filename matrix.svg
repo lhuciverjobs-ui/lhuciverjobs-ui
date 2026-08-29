@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+  <title id="title">lhuciver matrix header</title>
+  <desc id="desc">Green matrix rain over a dark terminal-style background.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#07110b"/>
+      <stop offset="1" stop-color="#000000"/>
+    </linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="2.5" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#0c3b20" stroke-opacity=".22"/></pattern>
+  </defs>
+  <rect width="1200" height="260" rx="12" fill="url(#bg)"/>
+  <rect width="1200" height="260" rx="12" fill="url(#grid)"/>
+  <g fill="#21f37b" font-family="monospace" font-size="18" opacity=".8">
+    <text x="24" y="30">01 10 011 001 110 01 101 001 10 0110 1 001 10</text>
+    <text x="78" y="78">1 001 10 110 01 011 101 00 110 1 010 011 101</text>
+    <text x="18" y="132">110 01 101 011 001 10 111 000 101 01 110 011 1</text>
+    <text x="106" y="190">01 011 110 001 101 10 010 111 00 101 011 1 110</text>
+    <text x="34" y="242">101 10 011 001 110 01 101 010 11 001 110 01 011</text>
+  </g>
+  <g fill="#b7ffd2" font-family="monospace" font-size="15" filter="url(#glow)">
+    <text x="230" y="20"><tspan>0</tspan><animate attributeName="y" values="20;275" dur="3.8s" repeatCount="indefinite"/></text>
+    <text x="390" y="-10"><tspan>1</tspan><animate attributeName="y" values="-10;275" dur="4.6s" repeatCount="indefinite"/></text>
+    <text x="550" y="44"><tspan>0</tspan><animate attributeName="y" values="44;275" dur="3.2s" repeatCount="indefinite"/></text>
+    <text x="760" y="-25"><tspan>1</tspan><animate attributeName="y" values="-25;275" dur="5.1s" repeatCount="indefinite"/></text>
+    <text x="980" y="30"><tspan>0</tspan><animate attributeName="y" values="30;275" dur="4.2s" repeatCount="indefinite"/></text>
+  </g>
+  <rect x="1" y="1" width="1198" height="258" rx="12" fill="none" stroke="#19d86a" stroke-opacity=".65"/>
+  <text x="600" y="125" text-anchor="middle" fill="#b7ffd2" font-family="monospace" font-size="38" font-weight="700" letter-spacing="5" filter="url(#glow)">LHUCIVER</text>
+  <text x="600" y="157" text-anchor="middle" fill="#21f37b" font-family="monospace" font-size="14" letter-spacing="3">BUILD // BREAK // REPEAT</text>
+</svg>

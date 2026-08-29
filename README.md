@@ -1,5 +1,8 @@
+<p align="center">
+  <img src="./matrix.svg" alt="lhuciver matrix header" width="100%" />
+</p>
+
 <div align="center">
-  <h1>lhuciver</h1>
   <p><strong>building things, breaking things, learning as I go.</strong></p>
   <p>
     <a href="https://pokehub.ilhamriski.com/lhuciverjobs-ui">PokeHub card</a> ·
