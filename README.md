@@ -1,100 +1,165 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=200&section=header&text=Lhuciver&fontSize=90&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4fd8,50:fff800,100:ff4fd8&height=220&section=header&text=lhuciver&fontSize=88&fontColor=080808&fontAlignY=38&animation=fadeIn" alt="lhuciver banner" />
 
-  <h1>🚀 Full Stack Developer | Vibe Coder</h1>
-  
-  <p align="center">
-    <a href="https://lhuciver.lovable.app/"><b>Portfolio Website</b></a> •
-    <a href="https://lhuciverjobs.webkus.com/"><b>Personal Site</b></a>
+  <h1>⚡ BASIC · VIBE CODER · 60 HP</h1>
+  <p><strong>AI iteration speed × handcrafted code</strong></p>
+
+  <p>
+    <a href="https://pokehub.ilhamriski.com/lhuciverjobs-ui"><img src="https://img.shields.io/badge/🎴_PokeHub-Developer_Card-ff4fd8?style=for-the-badge&labelColor=080808" alt="PokeHub developer card" /></a>
+    <a href="https://github.com/lhuciverjobs-ui?tab=repositories"><img src="https://img.shields.io/badge/🃏_Repo_Deck-Explore-fff800?style=for-the-badge&labelColor=080808" alt="Repository deck" /></a>
+    <a href="https://t.me/lhuciverjobs"><img src="https://img.shields.io/badge/💬_Telegram-Connect-e52521?style=for-the-badge&labelColor=080808" alt="Telegram" /></a>
   </p>
-
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8B5CF6&width=435&lines=Building+modern+web+experiences;Orchestrating+AI+for+rapid+dev;Airdrop+Hunter+%26+Web3+Enthusiast;Ember.js+Architect" alt="Typing SVG" />
 </div>
 
 ---
 
-### ⚡ Quick Overview
-Saya adalah seorang developer yang berfokus pada **efisiensi** dan **estetika**. Melalui pendekatan *Vibe Coding*, saya menggabungkan kecepatan iterasi AI dengan presisi *hand-crafted code* untuk membangun solusi digital yang elegan.
-
----
-
-### 🛠️ Tech Stack & Ecosystem
+## 🎴 Profile Card
 
 <table align="center">
   <tr>
-    <td align="center" width="200">
-      <img src="https://skillicons.dev/icons?i=js,react,nextjs,ember" /><br>
-      <b>Frontend</b>
+    <td width="58%" valign="top">
+
+### **lhuciver**
+
+> I build modern digital experiences by combining fast AI-assisted iteration with deliberate, handcrafted code.
+
+I like turning rough ideas into working interfaces, useful automation, and experiments that are actually fun to use. The stack can change; the goal stays the same: **make it work, make it clean, then make it feel good.**
+
+- 🔭 Building: **LhuciverJobs UI** and experimental web tools
+- 🧠 Exploring: **AI-assisted development, UI systems, and Web3**
+- 🐍 Main type: **Python**
+- 📍 Based in: **Indonesia**
+- 🃏 Status: **open to interesting collaborations**
+
     </td>
-    <td align="center" width="200">
-      <img src="https://skillicons.dev/icons?i=nodejs,py,sqlite,postman" /><br>
-      <b>Backend & Tools</b>
+    <td width="42%" align="center" valign="middle">
+      <a href="https://pokehub.ilhamriski.com/lhuciverjobs-ui">
+        <img src="https://pokehub.ilhamriski.com/lhuciverjobs-ui.png" alt="lhuciver PokeHub trading card" width="330" />
+      </a>
     </td>
-    <td align="center" width="200">
-      <img src="https://skillicons.dev/icons?i=ubuntu,linux,docker,bash" /><br>
-      <b>Environment</b>
+  </tr>
+</table>
+
+<p align="center"><i>“This developer blends AI iteration speed with handcrafted code to build elegant, efficient solutions.”</i></p>
+
+---
+
+## 🧭 Navigation
+
+[⚔️ Abilities](#️-abilities) · [🛠️ Tech Deck](#️-tech-deck) · [🃏 Project Cards](#-project-cards) · [📊 Battle Stats](#-battle-stats) · [📡 Contact](#-contact)
+
+---
+
+## ⚔️ Abilities
+
+| Energy | Ability | Effect |
+|:---:|---|---|
+| 🧠 | **Vibe Iteration** | Turn an idea into a working prototype, then refine the parts that matter. |
+| ✨ | **Handcrafted Builds** | Keep the final result intentional, readable, and pleasant to use. |
+| 🔥 | **Rapid Debugging** | Follow the bug until the actual cause is found — no ceremonial guessing. |
+| 🌐 | **Deck Building** | Combine tools, APIs, and interfaces into a coherent product. |
+
+---
+
+## 🛠️ Tech Deck
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,react,nextjs,ember,nodejs,sqlite,postman,docker,linux,bash,git&perline=6" alt="Technology stack" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-primary-fff800?style=flat-square&labelColor=080808" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-web-ff4fd8?style=flat-square&labelColor=080808" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/AI-assisted-builds-e52521?style=flat-square&labelColor=080808" alt="AI assisted builds" />
+  <img src="https://img.shields.io/badge/UI%2FUX-handcrafted-d9a900?style=flat-square&labelColor=080808" alt="UI UX" />
+</p>
+
+---
+
+## 🃏 Project Cards
+
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+
+### ⚡ LhuciverJobs UI
+
+An interactive dashboard concept for monitoring task queues in real time.
+
+`Ember.js` · `Tailwind CSS` · `UI systems`
+
+    </td>
+    <td width="50%" valign="top">
+
+### 📬 TempMail Fullstack
+
+A fast temporary-email experience with a real-time inbox workflow.
+
+`Next.js` · `Node.js` · `Full stack`
+
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+### 👁️ AI OCR Processor
+
+A Python-based experiment for extracting text from image batches.
+
+`Python` · `Tesseract` · `Automation`
+
+    </td>
+    <td width="50%" valign="top">
+
+### 🤖 Account Automator
+
+Browser-automation experiments built around repeatable workflows.
+
+`Python` · `Selenium` · `Workflow automation`
+
     </td>
   </tr>
 </table>
 
 ---
 
-### 📂 Proyek Unggulan
-
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td width="48%" style="border-radius: 10px; padding: 15px; border: 1px solid #6366f1; background-color: #1a1b2e;">
-        <img src="https://skillicons.dev/icons?i=ember" width="30" />
-        <strong style="color: #6366f1;"> LhuciverJobs UI</strong>
-        <p style="color: #ffffff; font-size: 13px;">Dashboard interaktif & responsif berbasis Ember.js untuk monitoring task queue secara real-time.</p>
-        <img src="https://img.shields.io/badge/Stack-Ember%20%7C%20Tailwind-6366f1" />
-      </td>
-      <td width="4%"></td>
-      <td width="48%" style="border-radius: 10px; padding: 15px; border: 1px solid #10b981; background-color: #1a1b2e;">
-        <img src="https://skillicons.dev/icons?i=nextjs" width="30" />
-        <strong style="color: #10b981;"> TempMail Fullstack</strong>
-        <p style="color: #ffffff; font-size: 13px;">Layanan email sementara full-stack dengan sistem inbox real-time yang aman dan cepat.</p>
-        <img src="https://img.shields.io/badge/Stack-Next.js%20%7C%20Node.js-10b981" />
-      </td>
-    </tr>
-    <tr><td colspan="3"><br></td></tr> <tr>
-      <td width="48%" style="border-radius: 10px; padding: 15px; border: 1px solid #8b5cf6; background-color: #1a1b2e;">
-        <img src="https://skillicons.dev/icons?i=py" width="30" />
-        <strong style="color: #8b5cf6;"> AI OCR Processor</strong>
-        <p style="color: #ffffff; font-size: 13px;">Ekstraksi teks massal dari gambar dengan akurasi tinggi menggunakan teknologi OCR.</p>
-        <img src="https://img.shields.io/badge/Stack-Python%20%7C%20Tesseract-8b5cf6" />
-      </td>
-      <td width="4%"></td>
-      <td width="48%" style="border-radius: 10px; padding: 15px; border: 1px solid #e11d48; background-color: #1a1b2e;">
-        <img src="https://skillicons.dev/icons?i=py" width="30" />
-        <strong style="color: #e11d48;"> Account Automator</strong>
-        <p style="color: #ffffff; font-size: 13px;">Automasi pendaftaran akun TikTok dengan alur kerja cerdas berbasis Python Selenium.</p>
-        <img src="https://img.shields.io/badge/Stack-Python%20%7C%20Selenium-e11d48" />
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-### 📊 GitHub Activity
+## 📊 Battle Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=lhuciverjobs-ui&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  
-  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=lhuciverjobs-ui&show_icons=true&hide_border=true&bg_color=080808&title_color=fff800&text_color=fffdf4&icon_color=ff4fd8&rank_icon=github" height="165" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhuciverjobs-ui&layout=compact&hide_border=true&bg_color=080808&title_color=fff800&text_color=fffdf4" height="165" alt="Top languages" />
+</p>
 
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lhuciverjobs-ui&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=lhuciverjobs-ui&hide_border=true&background=080808&ring=fff800&fire=ff4fd8&currStreakLabel=fff800&sideLabels=fffdf4&dates=fffdf4&currStreakNum=fffdf4&sideNums=fffdf4" alt="GitHub contribution streak" />
 </p>
 
 ---
 
-### 🌐 Let's Build Something Great
-* **Discord:** `lhuciver`
-* **Telegram:** [@lhuciverjobs](https://t.me/lhuciverjobs)
-* **Status:** Open for innovative collaborations in Web3 & AI.
+## 📡 Contact
 
-<div align="right">
-  <img src="https://img.shields.io/badge/📍-Indonesia-red?style=flat-square" />
+<p align="center">
+  <a href="https://lhuciver.lovable.app/">🌐 Portfolio</a> ·
+  <a href="https://lhuciverjobs.webkus.com/">🏠 Personal Site</a> ·
+  <a href="https://t.me/lhuciverjobs">💬 Telegram</a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/📍_Indonesia-e52521?style=flat-square&labelColor=080808" alt="Indonesia" />
+  <img src="https://img.shields.io/badge/⚡_Ready_to_build-fff800?style=flat-square&labelColor=080808" alt="Ready to build" />
+</p>
+
+<div align="center">
+  <sub>Built with curiosity, iteration, and a slightly overpowered deck.</sub>
 </div>
+
+<!-- Inspired by the structure and presentation patterns collected in awesome-readme. -->
+<!-- PokeHub card: https://pokehub.ilhamriski.com/lhuciverjobs-ui -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4fd8,50:fff800,100:ff4fd8&height=100&section=footer" alt="footer" />
+
+<!--
+Theme palette:
+  neon yellow #fff800 · hot pink #ff4fd8 · black #080808
+  warm white #fffdf4 · red #e52521 · gold #d9a900
+-->
